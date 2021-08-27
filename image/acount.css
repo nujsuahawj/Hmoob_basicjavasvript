@@ -1,0 +1,27 @@
+
+.center{
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+    font-family: phetsarath OT;
+
+}
+h1{
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+}
+
+#acount{
+    width: 100px;
+    height: 100px;
+    margin: 0;
+    padding: 0;
+    margin-top: 3px;
+    border-radius: 100px;
+
+}
+#edityourprofile{
+    margin-top: -5px;
+    cursor: pointer;
+}
